@@ -9,6 +9,6 @@ This repository provides a list of package managers for different operating syst
 - [Solaris](solaris.md)
 
 ## **Usage**
-Copy and paste the commands from the relevant file to manage packages or check your OS version.
+Copy, edit and paste the commands from the relevant file to manage packages or check your OS version.
 
 ---
